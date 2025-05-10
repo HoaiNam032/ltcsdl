@@ -1,0 +1,86 @@
+C:\New folder (2)\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\bin\Debug\App.config
+C:\New folder (2)\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\bin\Debug\WindowsFormsApplication12.exe.config
+C:\New folder (2)\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\bin\Debug\WindowsFormsApplication12.exe
+C:\New folder (2)\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\bin\Debug\WindowsFormsApplication12.pdb
+C:\New folder (2)\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\bin\Debug\BLL.dll
+C:\New folder (2)\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\bin\Debug\DAL.dll
+C:\New folder (2)\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\bin\Debug\WaterBillManagement.Entities.dll
+C:\New folder (2)\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\bin\Debug\BCrypt.Net-Next.dll
+C:\New folder (2)\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\bin\Debug\System.Memory.dll
+C:\New folder (2)\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\bin\Debug\System.Numerics.Vectors.dll
+C:\New folder (2)\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\New folder (2)\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\bin\Debug\System.Buffers.dll
+C:\New folder (2)\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\bin\Debug\BLL.pdb
+C:\New folder (2)\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\bin\Debug\DAL.pdb
+C:\New folder (2)\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\bin\Debug\WaterBillManagement.Entities.pdb
+C:\New folder (2)\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\bin\Debug\BCrypt.Net-Next.xml
+C:\New folder (2)\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\bin\Debug\System.Memory.xml
+C:\New folder (2)\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\bin\Debug\System.Numerics.Vectors.xml
+C:\New folder (2)\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\New folder (2)\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\bin\Debug\System.Buffers.xml
+C:\New folder (2)\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\obj\Debug\WaterBillManagementSystem.GUI.csproj.AssemblyReference.cache
+C:\New folder (2)\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.aboutas.resources
+C:\New folder (2)\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.adminhome.resources
+C:\New folder (2)\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.adminlogin.resources
+C:\New folder (2)\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.billpaymentcontrol.resources
+C:\New folder (2)\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.conadminform.resources
+C:\New folder (2)\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.debtsadminpage.resources
+C:\New folder (2)\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.debtsuser.resources
+C:\New folder (2)\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.forgetpass.resources
+C:\New folder (2)\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.Home.resources
+C:\New folder (2)\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.Homecs.resources
+C:\New folder (2)\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.homepageadmin.resources
+C:\New folder (2)\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.Homepagecontrol.resources
+C:\New folder (2)\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.login.resources
+C:\New folder (2)\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.ManageCustomerControl.resources
+C:\New folder (2)\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.Properties.Resources.resources
+C:\New folder (2)\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.signup.resources
+C:\New folder (2)\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.Techsupport.resources
+C:\New folder (2)\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\obj\Debug\WaterBillManagementSystem.GUI.csproj.GenerateResource.cache
+C:\New folder (2)\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\obj\Debug\WaterBillManagementSystem.GUI.csproj.CoreCompileInputs.cache
+C:\New folder (2)\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\obj\Debug\WaterBil.7EB3F123.Up2Date
+C:\New folder (2)\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.exe
+C:\New folder (2)\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.pdb
+C:\Users\ADMIN\OneDrive\Desktop\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\bin\Debug\App.config
+C:\Users\ADMIN\OneDrive\Desktop\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\bin\Debug\WindowsFormsApplication12.exe.config
+C:\Users\ADMIN\OneDrive\Desktop\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\bin\Debug\WindowsFormsApplication12.exe
+C:\Users\ADMIN\OneDrive\Desktop\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\bin\Debug\WindowsFormsApplication12.pdb
+C:\Users\ADMIN\OneDrive\Desktop\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\bin\Debug\BLL.dll
+C:\Users\ADMIN\OneDrive\Desktop\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\bin\Debug\DAL.dll
+C:\Users\ADMIN\OneDrive\Desktop\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\bin\Debug\WaterBillManagement.Entities.dll
+C:\Users\ADMIN\OneDrive\Desktop\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\ADMIN\OneDrive\Desktop\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\bin\Debug\System.Memory.dll
+C:\Users\ADMIN\OneDrive\Desktop\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ADMIN\OneDrive\Desktop\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ADMIN\OneDrive\Desktop\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\bin\Debug\System.Buffers.dll
+C:\Users\ADMIN\OneDrive\Desktop\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\bin\Debug\BLL.pdb
+C:\Users\ADMIN\OneDrive\Desktop\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\bin\Debug\DAL.pdb
+C:\Users\ADMIN\OneDrive\Desktop\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\bin\Debug\WaterBillManagement.Entities.pdb
+C:\Users\ADMIN\OneDrive\Desktop\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\ADMIN\OneDrive\Desktop\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\bin\Debug\System.Memory.xml
+C:\Users\ADMIN\OneDrive\Desktop\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ADMIN\OneDrive\Desktop\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ADMIN\OneDrive\Desktop\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\bin\Debug\System.Buffers.xml
+C:\Users\ADMIN\OneDrive\Desktop\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\obj\Debug\WaterBillManagementSystem.GUI.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Desktop\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.aboutas.resources
+C:\Users\ADMIN\OneDrive\Desktop\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.adminhome.resources
+C:\Users\ADMIN\OneDrive\Desktop\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.adminlogin.resources
+C:\Users\ADMIN\OneDrive\Desktop\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.billpaymentcontrol.resources
+C:\Users\ADMIN\OneDrive\Desktop\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.conadminform.resources
+C:\Users\ADMIN\OneDrive\Desktop\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.debtsadminpage.resources
+C:\Users\ADMIN\OneDrive\Desktop\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.debtsuser.resources
+C:\Users\ADMIN\OneDrive\Desktop\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.forgetpass.resources
+C:\Users\ADMIN\OneDrive\Desktop\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.Home.resources
+C:\Users\ADMIN\OneDrive\Desktop\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.Homecs.resources
+C:\Users\ADMIN\OneDrive\Desktop\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.homepageadmin.resources
+C:\Users\ADMIN\OneDrive\Desktop\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.Homepagecontrol.resources
+C:\Users\ADMIN\OneDrive\Desktop\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.login.resources
+C:\Users\ADMIN\OneDrive\Desktop\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.ManageCustomerControl.resources
+C:\Users\ADMIN\OneDrive\Desktop\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive\Desktop\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.signup.resources
+C:\Users\ADMIN\OneDrive\Desktop\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.Techsupport.resources
+C:\Users\ADMIN\OneDrive\Desktop\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\obj\Debug\WaterBillManagementSystem.GUI.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive\Desktop\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\obj\Debug\WaterBillManagementSystem.GUI.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\obj\Debug\WaterBil.7EB3F123.Up2Date
+C:\Users\ADMIN\OneDrive\Desktop\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.exe
+C:\Users\ADMIN\OneDrive\Desktop\Water-Billing-Management-System-master\WaterBill Maanagement System\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.pdb
