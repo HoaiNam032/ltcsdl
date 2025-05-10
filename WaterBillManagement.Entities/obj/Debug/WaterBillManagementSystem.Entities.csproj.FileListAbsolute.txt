@@ -1,6 +1,0 @@
-C:\New folder (2)\Water-Billing-Management-System-master\WaterBill Maanagement System\WaterBillManagement.Entities\bin\Debug\WaterBillManagement.Entities.dll
-C:\New folder (2)\Water-Billing-Management-System-master\WaterBill Maanagement System\WaterBillManagement.Entities\bin\Debug\WaterBillManagement.Entities.pdb
-C:\New folder (2)\Water-Billing-Management-System-master\WaterBill Maanagement System\WaterBillManagement.Entities\obj\Debug\WaterBillManagementSystem.Entities.csproj.AssemblyReference.cache
-C:\New folder (2)\Water-Billing-Management-System-master\WaterBill Maanagement System\WaterBillManagement.Entities\obj\Debug\WaterBillManagementSystem.Entities.csproj.CoreCompileInputs.cache
-C:\New folder (2)\Water-Billing-Management-System-master\WaterBill Maanagement System\WaterBillManagement.Entities\obj\Debug\WaterBillManagement.Entities.dll
-C:\New folder (2)\Water-Billing-Management-System-master\WaterBill Maanagement System\WaterBillManagement.Entities\obj\Debug\WaterBillManagement.Entities.pdb
